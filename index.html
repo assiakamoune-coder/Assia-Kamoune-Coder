@@ -3,71 +3,198 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assia Kamoune | Portfolio</title>
-    <!-- Lien vers le fichier de style CSS -->
+    <title>Assia Kamoune | Portfolio Data & BI Analyst</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
 
-    <!-- BARRE DE NAVIGATION -->
-    <header>
-        <nav>
-            <div class="logo">Assia Kamoune</div>
-            <ul>
-                <li><a href="#accueil">Accueil</a></li>
-                <li><a href="#projets">Projets</a></li>
-                <li><a href="#competences">Compétences</a></li>
-                <li><a href="#contact">Contact</a></li>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#" class="logo">Assia<span>.Data</span></a>
+            <ul class="nav-links">
+                <li><a href="#about">À propos</a></li>
+                <li><a href="#skills">Compétences</a></li>
+                <li><a href="#projects">Projets</a></li>
+                <li><a href="#experience">Parcours</a></li>
+                <li><a href="#contact" class="btn-nav">Contact</a></li>
             </ul>
-        </nav>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-container">
+            <div class="hero-content">
+                <h1>Assia Kamoune</h1>
+                <h2>Data Analyst / Business Intelligence Analyst</h2>
+                <p class="subtitle">Expertise Banque & Analyse de Risques</p>
+                <p class="description">
+                    Experte en analyse de risques et gestion de portefeuilles clients, je transforme les données complexes en insights stratégiques et en dashboards interactifs d'aide à la décision.
+                </p>
+                <div class="hero-cta">
+                    <a href="#projects" class="btn btn-primary">Voir mes projets</a>
+                    <a href="#contact" class="btn btn-secondary">Me contacter</a>
+                </div>
+            </div>
+        </div>
     </header>
 
-    <!-- SECTION ACCUEIL / PRÉSENTATION -->
-    <section id="accueil" class="hero">
-        <div class="hero-content">
-            <h1>Bonjour, je suis Assia</h1>
-            <p>Développeuse Web passionnée. Bienvenue sur mon portfolio !</p>
-            <a href="#projets" class="btn">Voir mes projets</a>
-        </div>
-    </section>
-
-    <!-- SECTION PROJETS -->
-    <section id="projets" class="section">
-        <h2>Mes Projets</h2>
-        <div class="projets-grid">
-            <!-- Projet 1 -->
-            <div class="projet-card">
-                <img src="images/projet1.png" alt="Aperçu du Projet 1">
-                <h3>Nom du Projet 1</h3>
-                <p>Une courte description de ce que vous avez fait (technologies utilisées : HTML, CSS, JS).</p>
-                <a href="#" class="btn-projet">Voir le code</a>
+    <section id="about" class="section">
+        <div class="container">
+            <h2 class="section-title">À propos de moi</h2>
+            <div class="about-grid">
+                <div class="about-text">
+                    <p>Fort d'un parcours de plus de 5 ans dans le secteur bancaire en tant qu'Analyste Middle Office et Conseillère clientèle, j'ai développé une solide culture du risque, du chiffre et de la performance. Aujourd'hui certifiée Data & BI Analyst par OpenClassrooms, je maîtrise l'ensemble de la chaîne de valeur de la donnée.</p>
+                    <div class="info-badges">
+                        <span><i class="fas fa-check-circle"></i> Disponibilité immédiate</span>
+                        <span><i class="fas fa-map-marker-alt"></i> Mobilité : France entière</span>
+                    </div>
+                </div>
             </div>
-            <!-- Vous pourrez copier/coller ce bloc pour ajouter d'autres projets -->
         </div>
     </section>
 
-    <!-- SECTION COMPÉTENCES -->
-    <section id="competences" class="section gray-bg">
-        <h2>Mes Compétences</h2>
-        <div class="skills-list">
-            <span>HTML5</span>
-            <span>CSS3</span>
-            <span>JavaScript</span>
-            <span>Git & GitHub</span>
+    <section id="skills" class="section bg-light">
+        <div class="container">
+            <h2 class="section-title">Compétences Techniques</h2>
+            <div class="skills-grid">
+                <div class="skill-card">
+                    <i class="fas fa-code icon-skill"></i>
+                    <h3>Langages</h3>
+                    <ul>
+                        <li>SQL (PostgreSQL, MySQL)</li>
+                        <li>Python (Pandas, NumPy)</li>
+                        <li>R</li>
+                    </ul>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-chart-bar icon-skill"></i>
+                    <h3>Business Intelligence</h3>
+                    <ul>
+                        <li>Power BI</li>
+                        <li>Tableau</li>
+                        <li>Google Data Studio</li>
+                    </ul>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-database icon-skill"></i>
+                    <h3>Data Management</h3>
+                    <ul>
+                        <li>Analyse exploratoire (EDA)</li>
+                        <li>Data Quality & RGPD</li>
+                        <li>Modélisation & Reporting</li>
+                    </ul>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-calculator icon-skill"></i>
+                    <h3>Statistiques & Bureau</h3>
+                    <ul>
+                        <li>Excel avancé & VBA</li>
+                        <li>SPSS</li>
+                        <li>SmartPLS</li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </section>
 
-    <!-- SECTION CONTACT -->
-    <section id="contact" class="section">
-        <h2>Me Contacter</h2>
-        <p>Un projet ? Une opportunité ? N'hésitez pas à me joindre !</p>
-        <div class="contact-links">
-            <a href="mailto:votre.email@email.com">📧 Mon Email</a>
-            <a href="https://linkedin.com/in/votre-profil" target="_blank">💼 LinkedIn</a>
+    <section id="projects" class="section">
+        <div class="container">
+            <h2 class="section-title">Projets Récents</h2>
+            <div class="projects-grid">
+                
+                <div class="project-card">
+                    <div class="project-body">
+                        <span class="project-tag">Python</span>
+                        <h3>Analyse Exploratoire & Segmentation RFM</h3>
+                        <p>Traitement de données complexes pour identifier les tendances de consommation et création d'un modèle de segmentation client pour optimiser les campagnes marketing.</p>
+                        <a href="https://github.com/assiakamoune-coder" target="_blank" class="project-link">Voir sur GitHub <i class="fas fa-external-link-alt"></i></a>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-body">
+                        <span class="project-tag">Power BI</span>
+                        <h3>Dashboard de Pilotage de la Rentabilité</h3>
+                        <p>Création de tableaux de bord interactifs permettant une lecture immédiate et visuelle de la rentabilité financière par secteur d'activité.</p>
+                        <a href="https://github.com/assiakamoune-coder" target="_blank" class="project-link">Voir sur GitHub <i class="fas fa-external-link-alt"></i></a>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <div class="project-body">
+                        <span class="project-tag">SQL / RGPD</span>
+                        <h3>Data Quality & Requêtage Complexe</h3>
+                        <p>Nettoyage approfondi de bases de données et extraction de segments clients spécifiques via PostgreSQL, dans le strict respect du RGPD.</p>
+                        <a href="https://github.com/assiakamoune-coder" target="_blank" class="project-link">Voir sur GitHub <i class="fas fa-external-link-alt"></i></a>
+                    </div>
+                </div>
+
+            </div>
         </div>
     </section>
 
-    <!-- PIED DE PAGE -->
+    <section id="experience" class="section bg-light">
+        <div class="container">
+            <h2 class="section-title">Parcours & Expérience</h2>
+            <div class="timeline">
+                
+                <div class="timeline-item">
+                    <div class="timeline-date">2025 - 2026</div>
+                    <div class="timeline-content">
+                        <h3>Bachelor Data / BI Analyst</h3>
+                        <h4>OpenClassrooms</h4>
+                        <p>Certification professionnelle centrée sur la maîtrise de SQL, Python, Power BI et la modélisation de données.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-date">2019 - 2024</div>
+                    <div class="timeline-content">
+                        <h3>Conseillère Clientèle Professionnels</h3>
+                        <h4>Attijariwafa Bank</h4>
+                        <p>Gestion d'un portefeuille de +200 clients (PME, artisans). Croissance du portefeuille de +27% et augmentation de la satisfaction client de 20%.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-date">2018 - 2019</div>
+                    <div class="timeline-content">
+                        <h3>Analyst Middle Office</h3>
+                        <h4>BNP Paribas</h4>
+                        <p>Analyse des risques de marché, de crédit et opérationnels. Traitement de +150 opérations financières par jour.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-date">2013 - 2018</div>
+                    <div class="timeline-content">
+                        <h3>Master en Gestion Financière & Comptable</h3>
+                        <h4>ENCG Casablanca</h4>
+                        <p>Diplôme d'école nationale de commerce et de gestion.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="section contact-section">
+        <div class="container text-center">
+            <h2 class="section-title">Restons en contact</h2>
+            <p>Disponible immédiatement, je suis ouverte à toutes propositions de poste en France ou à des collaborations sur des projets data.</p>
+            
+            <div class="contact-links">
+                <a href="mailto:assia.kamoune@gmail.com" class="contact-icon"><i class="fas fa-envelope"></i> assia.kamoune@gmail.com</a>
+                <a href="tel:+33659044922" class="contact-icon"><i class="fas fa-phone-alt"></i> +33 6 59 04 49 22</a>
+                <a href="https://linkedin.com/in/AssiaKamoune" target="_blank" class="contact-icon"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                <a href="https://github.com/assiakamoune-coder" target="_blank" class="contact-icon"><i class="fab fa-github"></i> GitHub</a>
+            </div>
+            
+            <p class="langues-info"><i class="fas fa-globe"></i> <strong>Langues :</strong> Anglais (C1) | Espagnol (Bases)</p>
+        </div>
+    </section>
+
     <footer>
         <p>&copy; 2026 Assia Kamoune. Tous droits réservés.</p>
     </footer>
