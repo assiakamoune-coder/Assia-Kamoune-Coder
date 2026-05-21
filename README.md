@@ -1,1 +1,70 @@
 # Assia-Kamoune-Coder
+# Hi there, I'm Assia Kamoune! 👋
+
+## 📊 Junior Data Analyst | Business Intelligence Analyst (Expertise Banque)
+
+[[cite_start]]Experte en analyse de risques et gestion de portefeuilles clients dans le secteur bancaire [cite: 2, 6][cite_start], je mets aujourd'hui ma rigueur et mes compétences analytiques au service de la **Business Intelligence** et de la **Data Science**[cite: 6]. [cite_start]Maîtrisant l'ensemble de la chaîne de valeur de la donnée (de l'extraction au dashboard stratégique) [cite: 7][cite_start], je transforme les données brutes en insights actionnables pour l'aide à la décision[cite: 7].
+
+---
+
+### 💼 En quelques mots...
+- [cite_start]🔭 Je viens de finaliser ma certification professionnelle de **Data Analyst / BI Analyst** chez OpenClassrooms[cite: 11].
+- [cite_start]🏦 J'ai plus de 5 ans d'expérience dans le secteur bancaire (**BNP Paribas** & **Attijariwafa Bank**) en gestion de risques et portefeuilles clients[cite: 16, 17, 22, 24, 25].
+- 🚀 **Disponibilité immédiate** | [cite_start]📍 Mobilité : **France entière**[cite: 4].
+- [cite_start]🎯 Objectif : Relever vos défis Data & BI au sein d'un environnement dynamique ! [cite: 7]
+
+---
+
+### 🛠️ Compétences Techniques (Tech Stack)
+
+| Catégorie | Technologies & Outils |
+| :--- | :--- |
+| **Langages** | [cite_start]![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) [cite: 45] |
+| **Business Intelligence** | [cite_start]![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white) [cite: 47] |
+| **Data Architecture** | [cite_start]Analyse, Nettoyage de données, Modélisation, Reporting [cite: 46] |
+| **Bureautique & Stats** | [cite_start]![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) `VBA` `SPSS` `SmartPLS` [cite: 48] |
+
+---
+
+### 🚀 Projets Data & BI Mis en Avant
+
+Voici un aperçu des projets clés réalisés (disponibles sur mes dépôts GitHub) :
+
+#### 🔹 [Analyse Exploratoire de Données (EDA) & Segmentation Client](https://github.com/assiakamoune-coder)
+* [cite_start]**Description :** Traitement et analyse de données complexes pour identifier les tendances de consommation et mise en place d'un modèle de **segmentation RFM** pour optimiser les campagnes marketing[cite: 30, 33].
+* [cite_start]**Stack :** Python (Pandas, NumPy)[cite: 30].
+
+#### 🔹 [Data Quality & Conformité RGPD](https://github.com/assiakamoune-coder)
+* [cite_start]**Description :** Nettoyage approfondi de bases de données (gestion des doublons et valeurs manquantes) appliqué au secteur bancaire en stricte conformité avec les normes RGPD[cite: 31].
+* [cite_start]**Stack :** Python, Data Quality workflows[cite: 31].
+
+#### 🔹 [Extraction de Données Targetées (SQL)](https://github.com/assiakamoune-coder)
+* [cite_start]**Description :** Rédaction de requêtes complexes pour extraire et filtrer des segments de clientèle spécifiques à forte valeur ajoutée[cite: 32].
+* [cite_start]**Stack :** SQL (PostgreSQL)[cite: 32].
+
+#### 🔹 [Dashboards de Pilotage de la Rentabilité](https://github.com/assiakamoune-coder)
+* [cite_start]**Description :** Création de tableaux de bord interactifs permettant une lecture immédiate et visuelle de la rentabilité par secteur d'activité[cite: 34].
+* [cite_start]**Stack :** Power BI[cite: 34].
+
+---
+
+### 📈 Mes Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=assiakamoune-coder&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assiakamoune-coder&layout=compact&theme=radical" alt="Top Languages" width="41%"/>
+</p>
+
+---
+
+### 🤝 Parlons ensemble !
+
+Je suis ouverte aux opportunités de poste, de collaboration ou simplement pour échanger sur la Data et la BI. N'hésitez pas à me contacter !
+
+* [cite_start]💼 **LinkedIn :** [linkedin.com/in/AssiaKamoune](https://linkedin.com/in/AssiaKamoune) [cite: 4]
+* [cite_start]📧 **Email :** [assia.kamoune@gmail.com](mailto:assia.kamoune@gmail.com) [cite: 3]
+* [cite_start]🌐 **Langues :** Français (Natif), Anglais (C1 - Courant), Espagnol (Bases) [cite: 49, 50]
+
+<p align="center">
+  <sub>Propulsé avec ❤️ par Assia Kamoune. Les statistiques se mettent à jour automatiquement.</sub>
+</p>
