@@ -48,14 +48,6 @@ Voici un aperçu des projets clés réalisés (disponibles sur mes dépôts GitH
 
 ---
 
-### 📈 Mes Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=assiakamoune-coder&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assiakamoune-coder&layout=compact&theme=radical" alt="Top Languages" width="41%"/>
-</p>
-
----
 
 ### 🤝 Parlons ensemble !
 
