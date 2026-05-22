@@ -57,6 +57,3 @@ Je suis ouverte aux opportunités de poste, de collaboration ou simplement pour 
 * 📧 **Email :** [assia.kamoune@gmail.com]
 * 🌐 **Langues :** Français (professionnel), Anglais (C1 -professionnel), Espagnol (Notions de base)
 
-<p align="center">
-  <sub>Propulsé avec ❤️ par Assia Kamoune. Les statistiques se mettent à jour automatiquement.</sub>
-</p>
